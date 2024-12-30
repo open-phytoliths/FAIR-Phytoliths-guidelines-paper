@@ -6,6 +6,14 @@ Other projects of the International Committee on Open Phytolith Science can be f
 
 ## Citation for this paper:
 
+
+## What is the paper about?
+This paper describes and analyses the data from the FAIR assessment of phytolith data. 
+
+It combines these findings with those from our community survey to make recommendations for individual researchers and our community to move towards FAIR data implementation.
+
+It also provides a first version of the full guidance on FAIR data for phytolith research - FAIR Phytolith Guidelines.
+
 ## Citation for the associated data paper: 
 Kerfant, C., Ruiz-Pérez, J., García-Granero, J.J. et al. A dataset for assessing phytolith data for implementation of the FAIR data principles. Sci Data 10, 479 (2023). https://doi.org/10.1038/s41597-023-02296-8
 
