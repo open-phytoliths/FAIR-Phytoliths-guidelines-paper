@@ -2,6 +2,8 @@
 
 This repository is for the final research paper of the FAIR Phytoliths Project. 
 
+Other projects of the International Committee on Open Phytolith Science can be found on our webpage - [Open Phytoliths](https://open-phytoliths.netlify.app/)
+
 ## Citation for this paper:
 
 ## Citation for the associated data paper: 
