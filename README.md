@@ -1,4 +1,4 @@
-FAIR Phytoliths Project - Assessing phytolith data using the FAIR data principles
+# FAIR Phytoliths Project - Assessing phytolith data using the FAIR data principles
 
 This repository is for the final research paper of the FAIR Phytoliths Project. 
 
